@@ -1,7 +1,5 @@
 # VM-Virtual-Master-Android-9-RootTools
 
-# VM-Virtual-Master-Android-9-RootTools
-
 Rooting Via Virtual Master 
 Install Virtual Master through Playstore
 For root Install only Android 9 VM in Virtual Master 
